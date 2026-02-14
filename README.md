@@ -1,104 +1,24 @@
-<h1 align="center">Hi 👋, I'm Manish yadav</h1>
-<h3 align="center">Full-Stack Mobile App Developer</h3>
-
-<img align="right" alt="coding" width="400"
-     src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
+# 💫 About Me:
+# 👋 Hi, I'm Manish Yadav<br><br>🚀 Full-Stack Developer | Flutter • Django • Firebase  <br>🎓 MCA Student | AWS & Meta Certified<br><br>I am a **Full-Stack Application Developer** with hands-on experience in building **scalable mobile and web applications** using Flutter for frontend and Django/Firebase for backend services. I focus on clean architecture, performance optimization, and user-centric design.<br><br>---<br><br>## 👨‍💻 About Me<br>- 🎓 Pursuing **Master of Computer Applications (MCA)**  <br>- 💻 Full-stack experience in **mobile + backend development**  <br>- 🔗 Strong knowledge of **REST APIs, authentication, and database integration**  <br>- 🎨 Passionate about **UI/UX design and real-world product development**  <br>- 🚀 Actively preparing for **software engineering roles**<br><br>---<br><br>## 🛠️ 💼 Experience<br><br>### 📱 Mobile App Developer Intern  <br>**Pro Housy Point Tech Solution** (Jun 2025 – Feb 2026)<br>- Developed cross-platform applications using **Flutter & Dart**<br>- Built backend integration using **Django REST APIs**<br>- Implemented **Firebase Authentication, Firestore, and Cloud Messaging**<br>- Designed reusable UI components following clean architecture<br><br>### 🌐 Frontend Developer Intern  <br>**Octanet Services Pvt Ltd** (Jun 2024 – Aug 2024)<br>- Worked on responsive UI using **HTML, CSS, JavaScript**<br>- Collaborated in virtual teams and followed industry best practices<br><br><br><br><br><br>## 🎓 Education<br>**Master of Computer Applications (MCA)**  <br>K.R. Mangalam University — CGPA: **8.24**<br><br>**Bachelor of Computer Applications (BCA)**  <br>Maharshi Dayanand University — CGPA: **7.1**<br><br>---<br><br>## 🏆 Certifications<br>- ☁️ AWS APAC – Solutions Architecture Job Simulation  <br>- 🎨 Meta Front-End Development Program  <br><br>---<br><br>## 📫 Connect With Me<br>- 💼 LinkedIn: https://www.linkedin.com/in/manish-yadav-258702263/<br>- 🌐 Portfolio: https://manishportfolio-drab.vercel.app/<br>- 🧠 LeetCode: https://leetcode.com/u/manishydv4/<br>- 📧 Email: manishyadav11406@gmail.com<br><br>---<br><br>## 📊 GitHub Stats<br>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manish1124e4454&show_icons=true)<br>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manish1124e4454&layout=compact)<br>
 
 
-- 🧑🏻‍💻 **Full-Time Developer** at **Pro Housy Point Tech Solutions Pvt. Ltd.**  
-  
-- 💼 Role: **Full-Stack Mobile App Developer**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manish-yadav-258702263/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@manish yadav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manishyadav11406@gmail.com) 
 
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yadavmanish04&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=yadavmanish04&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yadavmanish04&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 💬 **About Me**  
-  I’m Manish yadav, a Full-Stack Mobile Application Developer with expertise in **Flutter** for cross-platform mobile development and **Python Django** for backend systems.  
-  I specialize in building **scalable, high-performance Android and iOS applications** with clean architecture, secure API integration, and modern, user-centric UI/UX design.  
-  My focus is on delivering **reliable, maintainable, and business-ready mobile solutions** that solve real-world problems.
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=yadavmanish04&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<h3 align="left">🌐 Connect with me</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/prayas-jadaun-2328301ba/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-  </a>
-  <a href="https://instagram.com/_thakurprayas" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
-  </a>
-  <a href="https://www.leetcode.com/prayasjadaun" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
-  </a>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=yadavmanish04&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">🚀 Core Tech Stack</h3>
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-</p>
-
----
-
-<h3 align="left">🛠 Other Tools & Technologies</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-</p>
-
----
-
-- 💬 **About Me**  
-  I’m Manish yadav, a Full-Stack Mobile Application Developer with expertise in **Flutter** for cross-platform mobile development and **Python Django** for backend systems.  
-  I specialize in building **scalable, high-performance Android and iOS applications** with clean architecture, secure API integration, and modern, user-centric UI/UX design.  
-  My focus is on delivering **reliable, maintainable, and business-ready mobile solutions** that solve real-world problems.
-
----
-
-<h3 align="left">🌐 Connect with me</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/prayas-jadaun-2328301ba/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-  </a>
-  <a href="https://instagram.com/_thakurprayas" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
-  </a>
-  <a href="https://www.leetcode.com/prayasjadaun" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
-  </a>
-</p>
-
----
-
-<h3 align="left">🚀 Core Tech Stack</h3>
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-</p>
-
----
-
-<h3 align="left">🛠 Other Tools & Technologies</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-</p>
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
